@@ -45,6 +45,6 @@ nav a {
 #hero {
     text-align: center;
     padding: 2rem;
-    background: ;
+    background: url("images/hero.png") no-repeat center/cover;
     color: #fff;
 }
