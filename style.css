@@ -62,3 +62,9 @@ nav a {
     justify-content: center;
     flex-wrap: wrap;
 }
+
+.gallery-container img {
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0.2);
+}
