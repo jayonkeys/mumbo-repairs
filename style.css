@@ -76,3 +76,18 @@ nav a {
     z-index: 10;
     position: relative;
 }
+
+/* Booking Section */
+#booking {
+    padding: 2rem;
+    text-align: center;
+    background: #fff;
+}
+
+.booking-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1rem;
+}
