@@ -91,3 +91,13 @@ nav a {
     align-items: center;
     margin-top: 1rem;
 }
+
+/* FAQ Section */
+#faq {
+    padding: 2rem;
+    background: #f4f4f4;
+}
+
+.faq-item {
+    margin-bottom: 1rem;
+}
