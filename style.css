@@ -4,6 +4,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background: url("images/hero.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 header {
@@ -54,7 +58,6 @@ nav a {
 #hero {
     text-align: center;
     padding: 2rem;
-    background: url("images/hero.png") no-repeat center/cover;
     color: #fff;
 }
 
